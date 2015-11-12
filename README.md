@@ -4,7 +4,7 @@ This is the repository for the Nashville, TN chapter of Papers We Love. As a loc
 
 ## Information
 
-Meeting schedule: Quarterly, TBD
+We meet quarterly. Please join [Papers We Love Nashville](http://www.meetup.com/pwlnashville) on Meetup!
 
 ## Contact
 
