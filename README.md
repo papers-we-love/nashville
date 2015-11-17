@@ -30,4 +30,4 @@ Reading a paper is not the same as reading a blogpost or a novel. Here are a few
 
 ## Code of Conduct
 
-Papers We Love has a Code of Conduct. Please contact one of the organizers if anyone is not following it. Let's be good to each other and to the PWL community.
+Papers We Love has a [Code of Conduct](https://github.com/papers-we-love/nashville/blob/master/code-of-conduct.md). Please contact one of the organizers if anyone is not following it. Let's be good to each other and to the PWL community.
